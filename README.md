@@ -25,4 +25,18 @@
         - 用字典映射 url 与 route, 实现类似 flask 的蓝图管理, 利用了 Python 的高阶函数进行登录验证等
             
             
+**功能演示**
+
+- 用户登录
+
+![图片](gif/login.gif)
+
+- TODO事务的增删改查
+
+![图片](gif/deal.gif)
+
+- WeiBo APP
+
+![图片](gif/weibo.gif)
+
 
